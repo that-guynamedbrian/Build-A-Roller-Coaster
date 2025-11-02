@@ -11,9 +11,9 @@
 
 ### Client's Contact Details
 
-- **Aliases:** DerDevs
+- **Aliases:** DerDevs, Derzern
 - **Github Profile Link:** N/A
-- **Roblox Profile Link:** Derzern
+- **Roblox Profile Link:** https://www.roblox.com/users/922107823/profile?friendshipSourceType=PlayerSearch#!#creations
 - **Discord Username:** derdevs_56759
 - **Discord UserID:** 1218116613648158722
 
