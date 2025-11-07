@@ -82,6 +82,6 @@ maintenance period* : the period during which the project is ongoing till 10 day
 # <ins>Task list</ins>
 
 - Track Placement System - 35k R$
-- Cart Riding - 25k R$
+- Cart Riding - 35k R$
 
-- ## Total - 60k R$
+- ## Total - 70k R$
